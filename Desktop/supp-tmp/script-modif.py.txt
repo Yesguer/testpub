@@ -18,7 +18,7 @@ deleted_folders_count = 0
 deleted_files_count = 0
 
 # préciser le nombre de jours
-days = 1
+days = 30
 # convertir les jours en secondes
 seconds = days * 24 * 60 * 60
 # initialisation du dictionnaire
