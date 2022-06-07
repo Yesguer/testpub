@@ -1,6 +1,6 @@
 import socket
 import os
-import re
+# import re
 import subprocess
 import platform
 import time
